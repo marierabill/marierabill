@@ -31,7 +31,7 @@ I'm a **Computer Science graduate🎓** and a **Tech Enthusiast 💻 😃.** I a
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://www.linkedin.com/in/marierabill/)
+- 📙 Check out my [Resume](https://www.linkedin.com/in/bill-mariera-61b4442a4/)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
