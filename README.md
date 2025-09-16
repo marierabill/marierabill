@@ -1,117 +1,103 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hi there, I'm <a href="https://github.com/marierabill">Bill</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1 align="center"> 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> 
+  Hi, I'm <a href="https://github.com/marierabill">Bill</a> 👋
 </h1>
 
-### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/marierabill/)](https://github.com/marierabill/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marierabill/)](https://www.linkedin.com/in/marierabill)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/marierabill)](https://www.hackerrank.com/marierabill)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8977858/marierabill)](https://stackoverflow.com/users/8977858/marierabill)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marierabill@gmail.com)](mailto:marierabill@gmail.com)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/marierabill/articles)](https://auth.geeksforgeeks.org/user/marierabill/articles)
-
-
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Computer Science graduate🎓** and a **Tech Enthusiast 💻 😃.** I am passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-
-
-
-
-## ⚡️ A Few Quick Facts
-
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently working on a Project in Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://www.linkedin.com/in/bill-mariera-61b4442a4/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
-
-  
-### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
-
-### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
-
-
-<!-- ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
-</p-->
-
-
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=marierabill) -->
-
-
-<!-- <details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/marierabill/Machine-Learning">
-<img src="https://github-readme-stats-marierabill.vercel.app/api/pin/?username=marierabill&repo=Machine-Learning&show_owner=true&theme=react" />
-</a>&ensp;
-<a href="https://github.com/marierabill/Deep-Learning">
-<img src="https://github-readme-stats-marierabill.vercel.app/api/pin/?username=marierabill&repo=Deep-Learning&show_owner=true&theme=react" />
-</a>
+  <a href="https://github.com/marierabill"><img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/marierabill"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.hackerrank.com/marierabill"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/8977858/marierabill"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
+  <a href="mailto:marierabill@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://auth.geeksforgeeks.org/user/marierabill/articles"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white"></a>
 </p>
-</details> -->
 
+---
 
+## 🚀 About Me
+🎓 I'm a **Computer Science graduate** and **tech enthusiast** passionate about building solutions with real-world impact.  
+💡 I enjoy exploring **Machine Learning, Computer Vision, Robotics, and IoT projects (Raspberry Pi, Jetson Nano, etc.)**.  
+📝 I also share my knowledge through **blogs & articles**.  
+🎬 Outside tech, I’m fascinated by **astrophysics, SpaceX 🚀, and sci-fi movies**.  
 
-<!--
-**marierabill/marierabill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-pic on right
-<img height="270" src="sss.svg" align=right>
+## 🏅 Credentials & Certifications
+- 🎓 **B.Sc. in Computer Science**  
+- 📜 *Certifications:*  
+  - Introduction to Forest and Landscape Restoration – *FAO eLearning Academy*  
+  - An Introduction to Urban and Peri-urban Forestry – *FAO eLearning Academy*  
+  - Climate Change: From Learning to Action – *UN CC:Learn*  
+  - Introduction to Green Economy – *UN CC:Learn*  
+  - Introduction to Sustainable Development in Practice – *UN CC:Learn*  
 
- 
-views
-![Profile Views](https://komarev.com/ghpvc/?username=marierabill)
-[![HitCount](http://hits.dwyl.com/marierabill/.svg)](http://hits.dwyl.com/marierabill)
+---
 
+## ⚡ What I'm Up To
+- 🔭 Currently working on **NLP projects** & **Java-based applications**  
+- 👯 Open to collaborations in **hardware/software integrations (Raspberry Pi, Jetson Nano, ML/AI projects)**  
+- 🤝 Seeking mentorship & help with **DevOps and cloud deployments**  
+- 💬 Ask me about **Python, Machine Learning, Computer Vision, Raspberry Pi**  
+- 📄 [Check out my Resume](https://www.linkedin.com/in/bill-mariera-61b4442a4/)  
 
-social modded badge
-<a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+---
 
+## 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/marierabill/Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Machine-Learning&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/marierabill/Deep-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Deep-Learning&theme=react&hide_border=true" />
+  </a>
+</p>
 
-language badges:
-![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b)
+<p align="center">
+  <a href="https://github.com/marierabill/RaspberryPi-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=RaspberryPi-Projects&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/marierabill/NLP-Experiments">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=NLP-Experiments&theme=react&hide_border=true" />
+  </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/Nodejs-555555?style=flat&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
+---
 
-![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+## 🛠️ Tech Stack
 
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
--->
+**Frameworks & Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Other Tech**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 💻 Dev Setup
+![Lenovo Legion](https://img.shields.io/badge/Lenovo-Legion-555555?style=flat&logo=lenovo&logoColor=E2231A)
+![Windows](https://img.shields.io/badge/Windows-555555?style=flat&logo=windows&logoColor=0078D6)
+![VS Code](https://img.shields.io/badge/VSCode-555555?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter&logoColor=F37626)
+![Chrome](https://img.shields.io/badge/Chrome-555555?style=flat&logo=googlechrome&logoColor=FABC0C)
+![Spotify](https://img.shields.io/badge/Spotify-555555?style=flat&logo=spotify&logoColor=1ED760)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marierabill&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marierabill&layout=compact&theme=react&hide_border=true" />
+</p>
