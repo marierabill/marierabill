@@ -61,6 +61,17 @@
 
 ---
 
+## 🏢 Organization — Isoe Creatives
+I’m also building projects under my organization [Isoe Creatives](https://github.com/Isoe-Creatives) 🚀  
+
+Some featured repos:
+- [Isoe-Creatives/crms](https://github.com/Isoe-Creatives/crms) — Criminal Record Management System (CodeIgniter HMVC)  
+- [Isoe-Creatives/uchunguzi](https://github.com/Isoe-Creatives/uchunguzi) — Investigation & case tracking app  
+- [Isoe-Creatives/designs](https://github.com/Isoe-Creatives/designs) — Branding, UI/UX, and creative assets  
+
+👉 Check out the full org here: [Isoe Creatives GitHub](https://github.com/Isoe-Creatives)
+
+
 ## 🛠️ Tech Stack  
 
 **Languages & Databases**  
