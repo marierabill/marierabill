@@ -42,20 +42,20 @@
 
 ## 📌 Featured Projects  
 <p align="center">
-  <a href="https://github.com/marierabill/Chamawise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Network-Scripts&theme=react&hide_border=true" />
+  <a href="https://github.com/marierabill/Network-Scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Network-Scripts&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/marierabill/Chamawise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Cloud-Migration-Demos&theme=react&hide_border=true" />
+  <a href="https://github.com/marierabill/Cloud-Migration-Demos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Cloud-Migration-Demos&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/marierabill/Application-Support-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Application-Support-Tools&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Application-Support-Tools&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/marierabill/WebApps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=WebApps&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=WebApps&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
