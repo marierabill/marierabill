@@ -45,82 +45,56 @@
 
 <div align="center">
 
-<!-- ===================== ROW 1 ===================== -->
+<!-- ===================== ROW ===================== -->
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### 🧰 Network Scripts  
-<p>Automation tools for network configuration, monitoring, and diagnostics.</p>
+### 🚗 JadeAuto CI  
+<p>Member-only automobile wholesale platform with secure access and inventory management.</p>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Automation-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-Compatible-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/PHP-CodeIgniter-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/System-HMVC-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Access-Private-orange?style=flat-square" />
 </p>
 
-<a href="https://github.com/marierabill/Network-Scripts">
+<a href="https://github.com/Isoe-Creatives/JadeAuto_CI">
   <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### ☁️ Cloud Migration Demos  
-<p>Hands-on demos showcasing cloud architecture, deployment, and migration strategies.</p>
+### 🛒 Online Shop  
+<p>Full-featured e-commerce platform built with HMVC architecture for scalability and modularity.</p>
 
 <p>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI/CD-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/PHP-CodeIgniter-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-HMVC-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature-Ecommerce-success?style=flat-square" />
 </p>
 
-<a href="https://github.com/marierabill/Cloud-Migration-Demos">
+<a href="https://github.com/Isoe-Creatives/online_shop">
   <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
-</tr>
-</table>
+<td width="33%" align="center">
 
-<br/>
-
-<!-- ===================== ROW 2 ===================== -->
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🛠️ Application Support Tools  
-<p>Utility tools designed for monitoring, debugging, and maintaining applications in production.</p>
+### 🚕 iCommute  
+<p>Android-based ride booking app connecting drivers and riders with real-time interactions.</p>
 
 <p>
-  <img src="https://img.shields.io/badge/Monitoring-Logs%20%7C%20Alerts-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scripting-Automation-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Use%20Case-Production-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/App-Booking-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Real--Time-orange?style=flat-square" />
 </p>
 
-<a href="https://github.com/marierabill/Application-Support-Tools">
-  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🌐 Web Apps  
-<p>Collection of modern web applications built with scalable architectures and clean UI/UX.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-UX%20%7C%20Performance-purple?style=flat-square" />
-</p>
-
-<a href="https://github.com/marierabill/WebApps">
+<a href="https://github.com/Isoe-Creatives/iCommute">
   <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
 </a>
 
