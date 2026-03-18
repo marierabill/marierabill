@@ -42,10 +42,10 @@
 
 ## 📌 Featured Projects  
 <p align="center">
-  <a href="https://github.com/marierabill/Network-Scripts">
+  <a href="https://github.com/marierabill/Chamawise">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Network-Scripts&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/marierabill/Cloud-Migration-Demos">
+  <a href="https://github.com/marierabill/Chamawise">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Cloud-Migration-Demos&theme=react&hide_border=true" />
   </a>
 </p>
