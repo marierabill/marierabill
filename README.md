@@ -40,24 +40,96 @@
 
 ---
 
-## 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/marierabill/Network-Scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Network-Scripts&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/marierabill/Cloud-Migration-Demos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Cloud-Migration-Demos&theme=tokyonight&hide_border=true" />
-  </a>
+<!-- ===================== FEATURED PROJECTS ===================== -->
+### 📌 Featured Projects
+
+<div align="center">
+
+<!-- ===================== ROW 1 ===================== -->
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🧰 Network Scripts  
+<p>Automation tools for network configuration, monitoring, and diagnostics.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Automation-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-Compatible-green?style=flat-square" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/marierabill/Application-Support-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=Application-Support-Tools&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/marierabill/WebApps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marierabill&repo=WebApps&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/marierabill/Network-Scripts">
+  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### ☁️ Cloud Migration Demos  
+<p>Hands-on demos showcasing cloud architecture, deployment, and migration strategies.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI/CD-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
 </p>
+
+<a href="https://github.com/marierabill/Cloud-Migration-Demos">
+  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== ROW 2 ===================== -->
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🛠️ Application Support Tools  
+<p>Utility tools designed for monitoring, debugging, and maintaining applications in production.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Monitoring-Logs%20%7C%20Alerts-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scripting-Automation-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Use%20Case-Production-critical?style=flat-square" />
+</p>
+
+<a href="https://github.com/marierabill/Application-Support-Tools">
+  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 Web Apps  
+<p>Collection of modern web applications built with scalable architectures and clean UI/UX.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-UX%20%7C%20Performance-purple?style=flat-square" />
+</p>
+
+<a href="https://github.com/marierabill/WebApps">
+  <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
