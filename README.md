@@ -21,10 +21,23 @@ I'm a Computer Science graduate with 10+ years of experience designing and shipp
 My projects run in real institutional environments, used by real users, maintained through multiple iterations. I care about code that actually works when it matters.
 
 I'm also **AI-native**: Claude, ChatGPT, and GitHub Copilot are part of my daily workflow — for code generation, debugging, refactoring, architectural decisions, and test writing. AI doesn't replace my thinking; it accelerates it.
-💻  Stack       PHP · CodeIgniter HMVC · JavaScript · React · MySQL · PostgreSQL
-☁️  Cloud       Microsoft Azure · AWS (EC2, S3, RDS, Lambda)
-🤖  AI Tools    Claude · ChatGPT · GitHub Copilot · Make.com
-🌍  Location    Nakuru, Kenya — available full-time remote
+<div class="profile">
+  <p>💻 <strong>Stack</strong><br>
+    PHP · CodeIgniter HMVC · JavaScript · React · MySQL · PostgreSQL
+  </p>
+
+  <p>☁️ <strong>Cloud</strong><br>
+    Microsoft Azure · AWS (EC2, S3, RDS, Lambda)
+  </p>
+
+  <p>🤖 <strong>AI Tools</strong><br>
+    Claude · ChatGPT · GitHub Copilot · Make.com
+  </p>
+
+  <p>🌍 <strong>Location</strong><br>
+    Nakuru, Kenya — available full-time remote
+  </p>
+</div>
 
 ---
 
