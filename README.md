@@ -187,8 +187,8 @@ AI tooling is core to how I work , not an afterthought:
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marierabill&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marierabill&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marierabill&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marierabill&layout=compact&hide_border=true" width="48%" />
 </p>
 
 ---
