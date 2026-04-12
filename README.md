@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm a Computer Science graduate with 10+ years of experience designing and shipping full-stack web applications, database systems, and cloud-connected platforms — across healthcare, government, community finance, and mobility.
+I'm a Computer Science graduate with 10+ years of experience designing and shipping full-stack web applications, database systems, and cloud-connected platforms , across healthcare, government, community finance, and mobility.
 
 My projects run in real institutional environments, used by real users, maintained through multiple iterations. I care about code that actually works when it matters.
 
-I'm also **AI-native**: Claude, ChatGPT, and GitHub Copilot are part of my daily workflow — for code generation, debugging, refactoring, architectural decisions, and test writing. AI doesn't replace my thinking; it accelerates it.
+I'm also **AI-native**: Claude, ChatGPT, and GitHub Copilot are part of my daily workflow  for code generation, debugging, refactoring, architectural decisions, and test writing. AI doesn't replace my thinking; it accelerates it.
 <div class="profile">
   <p>💻 <strong>Stack</strong><br>
     PHP · CodeIgniter HMVC · JavaScript · React · MySQL · PostgreSQL
@@ -35,7 +35,7 @@ I'm also **AI-native**: Claude, ChatGPT, and GitHub Copilot are part of my daily
   </p>
 
   <p>🌍 <strong>Location</strong><br>
-    Nakuru, Kenya — available full-time remote
+    Nakuru, Kenya , available full-time remote
   </p>
 </div>
 
@@ -109,7 +109,7 @@ Android ride-booking app connecting drivers and riders with real-time interactio
 <td width="50%" valign="top">
 
 ### ⚙️ Isoe Automations
-Workflow automation scripts and API integrations — replacing manual processes with event-driven pipelines using Make.com and REST APIs.
+Workflow automation scripts and API integrations , replacing manual processes with event-driven pipelines using Make.com and REST APIs.
 
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-grey?style=flat-square)
@@ -122,7 +122,7 @@ Workflow automation scripts and API integrations — replacing manual processes 
 <td width="50%" valign="top">
 
 ### 🌲 Forest Data Frontend
-Data management frontend built during Kenya Forest Service engagement — handling structured institutional data at scale.
+Data management frontend built during Kenya Forest Service engagement , handling structured institutional data at scale.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -139,7 +139,7 @@ Data management frontend built during Kenya Forest Service engagement — handli
 
 ## My AI Development Workflow
 
-AI tooling is core to how I work — not an afterthought:
+AI tooling is core to how I work , not an afterthought:
 
 | Tool | How I use it |
 |------|-------------|
@@ -147,7 +147,7 @@ AI tooling is core to how I work — not an afterthought:
 | **ChatGPT** | Rapid prototyping, alternative approaches, documentation drafts |
 | **GitHub Copilot** | Inline completions, boilerplate elimination, function generation |
 | **Make.com** | Event-driven automation pipelines connecting APIs, databases, and messaging |
-| **Prompt engineering** | Structured, context-rich prompts that produce production-quality outputs — not just snippets |
+| **Prompt engineering** | Structured, context-rich prompts that produce production-quality outputs , not just snippets |
 
 ---
 
@@ -195,18 +195,18 @@ AI tooling is core to how I work — not an afterthought:
 
 ## Certifications
 
-- 📡 CCNA 200-301 Network Fundamentals — Simplilearn
-- 📋 Introduction to ITIL® V4 — Simplilearn
-- ☁️ Microsoft Azure Developer Associate — *In Progress*
-- 🔒 CompTIA Security+ — *Planned*
+- 📡 CCNA 200-301 Network Fundamentals , Simplilearn
+- 📋 Introduction to ITIL® V4 , Simplilearn
+- ☁️ Microsoft Azure Developer Associate , *In Progress*
+- 🔒 CompTIA Security+ , *Planned*
 
 ---
 
 ## Also Building Under Isoe Creatives
 
-I run [**Isoe Creatives**](https://github.com/Isoe-Creatives) — a development org where I ship client and product work including JadeAuto CI, iCommute, and workflow automation tools.
+I run [**Isoe Creatives**](https://github.com/Isoe-Creatives) , a development org where I ship client and product work including JadeAuto CI, iCommute, and workflow automation tools.
 
 ---
 
 *Open to full-time remote roles in full-stack development and AI-enabled engineering.*  
-*Based in East Africa — Nakuru, Kenya 🇰🇪*
+*Based in East Africa , Nakuru, Kenya 🇰🇪*
