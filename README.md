@@ -182,23 +182,15 @@ AI tooling is core to how I work , not an afterthought:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marierabill&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marierabill&layout=compact&hide_border=true" width="48%" />
-</p>
 
 ---
 
 ## Certifications
 
-- 📡 CCNA 200-301 Network Fundamentals , Simplilearn
-- 📋 Introduction to ITIL® V4 , Simplilearn
-- ☁️ Microsoft Azure Developer Associate , *In Progress*
-- 🔒 CompTIA Security+ , *Planned*
+- 📡 CCNA 200-301 Network Fundamentals 
+- 📋 ITIL® V4 
+- ☁️ Microsoft Azure Developer Associate 
+- 🔒 CompTIA Security+ 
 
 ---
 
